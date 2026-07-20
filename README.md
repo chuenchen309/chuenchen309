@@ -1,8 +1,8 @@
 ### Hi, I'm Andrew 👋
 
-I build production LLM agent systems — and I contribute correctness fixes to the open-source projects they're built on.
+I'm an AI engineer. I build agent harnesses — the orchestration layer that makes tool-calling agents reliable in production — and I contribute correctness fixes to the open-source projects they're built on.
 
-**Agent harnesses** are the part I care about most: the orchestration layer that makes tool-calling agents reliable in the real world.
+**What I focus on**
 
 - Multi-step tool calling with self-repairing tool-call chains
 - Provider-agnostic routing (OpenAI / Anthropic / Google) with configurable reasoning modes
